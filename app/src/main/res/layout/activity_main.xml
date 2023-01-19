@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+    <Button
+        android:id="@+id/button_static_demo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="static_demo"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="20dp"/>
+    <Button
+        android:id="@+id/button_dynamic_demo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="dynamic_demo"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="20dp"/>
+    <Button
+        android:id="@+id/recycling_demo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="recycling_demo"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="20dp"/>
+    <Button
+        android:id="@+id/ratelist_demo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="recycling_demo"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="20dp"/>
+
+</LinearLayout>
